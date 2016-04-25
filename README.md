@@ -1,5 +1,5 @@
 #GGdomain
-通过google搜集子域名，ggdomain跑一圈，再subDomainsBrute 跑第二圈，域名就收集得差不多了。
+###通过google搜集子域名，ggdomain跑一圈，再subDomainsBrute 跑第二圈，域名就收集得差不多了。
 ==========
 
 ##INPUT
