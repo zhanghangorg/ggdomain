@@ -1,10 +1,15 @@
 #GGdomain
+
 ###通过google搜集子域名，ggdomain跑一圈，再subDomainsBrute 跑第二圈，域名就收集得差不多了。
+
 ==========
 
 ##INPUT
+
 python ggdomain.py jd.com jd.txt
+
 ##OUTPUT
+
 www.jd.com  
 jos.jd.com  
 kuailemali.jd.com  
